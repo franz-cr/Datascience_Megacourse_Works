@@ -1,0 +1,4 @@
+create table mystaff.employees 
+	(id int primary key not null,
+	
+
